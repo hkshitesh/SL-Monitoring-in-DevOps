@@ -11,3 +11,7 @@ wget https://github.com/prometheus/prometheus/releases/download/v3.4.0-rc.0/prom
 ## Downlaod Node-Exporter
 
 https://github.com/prometheus/node_exporter/releases/download/v1.9.1/node_exporter-1.9.1.linux-arm64.tar.gz
+
+## Download Alertmanager
+
+https://github.com/prometheus/alertmanager/releases/download/v0.28.1/alertmanager-0.28.1.linux-arm64.tar.gz
